@@ -2,7 +2,6 @@
 	"name": "react-scroll-animations",
 	"private": false,
 	"version": "1.0.1",
-	"type": "module",
 	"scripts": {
 		"dev": "vite",
 		"build": "tsc && vite build",
@@ -11,7 +10,8 @@
 	},
 	"dependencies": {
 		"react": "^18.2.0",
-		"react-dom": "^18.2.0"
+		"react-dom": "^18.2.0",
+		"tsup": "^8.0.2"
 	},
 	"devDependencies": {
 		"@types/react": "^18.2.55",
@@ -26,7 +26,7 @@
 		"vite": "^5.1.0"
 	},
 	"description": "",
-	"main": "index.ts",
+	"main": "./dist/index.js",
 	"author": "Prince Jagani",
 	"license": "MIT",
 	"repository": {
