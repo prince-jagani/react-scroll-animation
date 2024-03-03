@@ -1,0 +1,42 @@
+.react-scroll-text-cursor {
+    border-right: 4px solid black;
+    padding-right: 6px;
+    animation: cursor 1s steps(2) infinite;
+}
+
+.react-scroll-anim-text-char.hide {
+    opacity: 0;
+}
+
+
+@keyframes cursor {
+
+    50% {
+        border-color: black
+    }
+
+    from,
+    to {
+        border-color: transparent;
+    }
+}
+
+@keyframes type {
+    from {
+        display: none;
+    }
+
+    to {
+        display: block;
+    }
+}
+
+@keyframes fade {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
