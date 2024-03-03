@@ -28,5 +28,23 @@
 	"description": "",
 	"main": "index.ts",
 	"author": "Prince Jagani",
-	"license": "ISC"
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/prince-jagani/react-scroll-animation.git"
+	},
+	"keywords": [
+		"react",
+		"react-scroll",
+		"react-scroll-reveal",
+		"react-scroll-animation",
+		"scroll-animation",
+		"scroll-reveal",
+		"react-reveal",
+		"reveal-animation"
+	],
+	"bugs": {
+		"url": "https://github.com/prince-jagani/react-scroll-animation/issues"
+	},
+	"homepage": "https://github.com/prince-jagani/react-scroll-animation#readme"
 }
