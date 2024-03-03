@@ -1,4 +1,4 @@
-import Div from './src/Components/Div';
-import Text from './src/Components/Text';
+import Div from './src/Div';
+import Text from './src/Text';
 
 export default { Div, Text };
