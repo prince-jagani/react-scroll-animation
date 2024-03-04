@@ -1,7 +1,7 @@
 {
 	"name": "scroll-reveal-react",
 	"private": false,
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"scripts": {
 		"dev": "vite",
 		"build": "tsup",
@@ -11,6 +11,7 @@
 	"dependencies": {
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
+		"scroll-reveal-react": "^1.0.4",
 		"tsup": "^8.0.2"
 	},
 	"devDependencies": {
