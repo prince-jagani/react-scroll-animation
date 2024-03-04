@@ -1320,6 +1320,16 @@ scheduler@^0.23.0:
   dependencies:
     loose-envify "^1.1.0"
 
+scroll-reveal-react@^1.0.3, scroll-reveal-react@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.npmjs.org/scroll-reveal-react/-/scroll-reveal-react-1.0.4.tgz"
+  integrity sha512-8ZOQSh9ZUKQ4JAmLMw6PAzhwc2jXgcXN8PAJxuC2xv1Oqbd0sLh+s13paFgwxLK9kVA2IMYA+tIYKLytAr5Emg==
+  dependencies:
+    react "^18.2.0"
+    react-dom "^18.2.0"
+    scroll-reveal-react "^1.0.3"
+    tsup "^8.0.2"
+
 semver@^7.5.4:
   version "7.6.0"
   resolved "https://registry.npmjs.org/semver/-/semver-7.6.0.tgz"
