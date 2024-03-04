@@ -1,6 +1,5 @@
 import React from 'react';
-import { Div } from '../src';
-import { Text } from '../src';
+import { Text, Div } from 'scroll-reveal-react';
 
 const TestApp: React.FC = () => {
     return (
