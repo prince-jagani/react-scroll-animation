@@ -1,6 +1,6 @@
 import React from 'react';
-import Div from '../src/Div';
-import Text from '../src/Text';
+import { Div } from '../src';
+import { Text } from '../src';
 
 const TestApp: React.FC = () => {
     return (
